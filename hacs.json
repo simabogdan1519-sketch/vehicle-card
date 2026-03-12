@@ -1,0 +1,7 @@
+{
+  "name": "Vehicle Manager Card",
+  "description": "Lovelace card for the Vehicle Manager integration. Displays document expiry dates and service intervals with colour-coded status, multi-language support (EN/RO/DE/FR/IT/ES/PL/HU) and collapsible sections.",
+  "render_readme": true,
+  "filename": "vehicle-card.js",
+  "homeassistant": "2023.6.0"
+}
